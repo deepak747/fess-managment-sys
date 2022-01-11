@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "firstName": "deepak",
+      "LastName": "fsdf",
+      "email": "sef@",
+      "mobile": "96325874",
+      "fees": "1000"
+    },
+    {
+      "id": 7,
+      "firstName": "fsdf",
+      "LastName": "fsdf",
+      "email": "sef@",
+      "mobile": "454646",
+      "fees": "60000"
+    },
+    {
+      "id": 8,
+      "firstName": "deepak",
+      "LastName": "fsdf",
+      "email": "sef@",
+      "mobile": "974987897",
+      "fees": "8000"
+    },
+    {
+      "id": 9,
+      "firstName": "fsdf",
+      "LastName": "deepak",
+      "email": "sef@",
+      "mobile": "963258741",
+      "fees": "45000"
+    },
+    {
+      "id": 10,
+      "firstName": "deepak",
+      "LastName": "fsdf",
+      "email": "dubey@gmail.com",
+      "mobile": "978974654",
+      "fees": "12000"
+    },
+    {
+      "id": 11,
+      "firstName": "fsdf",
+      "LastName": "deepak",
+      "email": "dubey@gmail.com",
+      "mobile": "98745634132",
+      "fees": "45000"
+    },
+    {
+      "id": 12,
+      "firstName": "dubey",
+      "LastName": "deepak",
+      "email": "dubey@gmail.com",
+      "mobile": "98745634132",
+      "fees": "45000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
